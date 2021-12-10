@@ -6,6 +6,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Deep_learning-025E8C?style=flat-square&logo=Dependabot&logoColor=white&link=mailto:wjtls01@naver.com)](mailto:wjtls01@naver.com)
 
+[![Gmail Badge](https://img.shields.io/badge/Quant-025E8C?style=flat-square&logo=Dependabot&logoColor=white&link=mailto:wjtls01@naver.com)](mailto:wjtls01@naver.com)
 
 
 
