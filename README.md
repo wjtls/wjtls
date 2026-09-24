@@ -1,6 +1,10 @@
 
 
+
 [![Gmail Badge](https://img.shields.io/badge/Reinforcement_learning-025E8C?style=flat-square&logo=Dependabot&logoColor=white&link=mailto:wjtls01@naver.com)](mailto:wjtls01@naver.com)
+
+[![Gmail Badge](https://img.shields.io/badge/llm/Agent/RAG-025E8C?style=flat-square&logo=Dependabot&logoColor=white&link=mailto:wjtls01@naver.com)](mailto:wjtls01@naver.com)
+
 
 [![Gmail Badge](https://img.shields.io/badge/Machine_learning-025E8C?style=flat-square&logo=Dependabot&logoColor=white&link=mailto:wjtls01@naver.com)](mailto:wjtls01@naver.com)
 
